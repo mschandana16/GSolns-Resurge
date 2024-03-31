@@ -1,4 +1,4 @@
-Please proceed to the updated repo of this proj by clicking [here](https://github.com/Lekhya25/GSolns-Resurge)
+Please proceed to the updated repo of this project by clicking [here](https://github.com/Lekhya25/GSolns-Resurge)
 
 Learn more about it [here](https://www.linkedin.com/company/resurge-app/)
 
